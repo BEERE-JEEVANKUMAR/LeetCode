@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/BEERE-JEEVANKUMAR/LeetCode/tree/master/0002-add-two-numbers) |
 | [0069-sqrtx](https://github.com/BEERE-JEEVANKUMAR/LeetCode/tree/master/0069-sqrtx) |
+| [0877-stone-game](https://github.com/BEERE-JEEVANKUMAR/LeetCode/tree/master/0877-stone-game) |
 ## Recursion
 |  |
 | ------- |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/BEERE-JEEVANKUMAR/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/BEERE-JEEVANKUMAR/LeetCode/tree/master/0015-3sum) |
+| [0877-stone-game](https://github.com/BEERE-JEEVANKUMAR/LeetCode/tree/master/0877-stone-game) |
 ## Binary Search
 |  |
 | ------- |
@@ -40,4 +42,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/BEERE-JEEVANKUMAR/LeetCode/tree/master/0069-sqrtx) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/BEERE-JEEVANKUMAR/LeetCode/tree/master/0877-stone-game) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/BEERE-JEEVANKUMAR/LeetCode/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/BEERE-JEEVANKUMAR/LeetCode/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/BEERE-JEEVANKUMAR/LeetCode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
